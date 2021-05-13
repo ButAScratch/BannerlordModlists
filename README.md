@@ -1,5 +1,7 @@
 # Where My Bannerlord Modlists Go
 
+## **This modlist is for 1.5.9**
+
 #### [Modlist]
 [Modlist]: https://github.com/ButAScratch/BannerlordModlists/blob/Gohandhi-Modified/MODLIST.md
 
