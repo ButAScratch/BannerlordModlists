@@ -88,10 +88,6 @@ StoryMode
 
 [Responsive Soldiers v0.2.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1136
 
-- [Saddled Edge Editor v1.4.3-10]
-
-[Saddled Edge Editor v1.4.3-10]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1547
-
 - [Save Overhaul (quicksave) v1.2.3]
 
 [Save Overhaul (quicksave) v1.2.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/322
@@ -132,7 +128,7 @@ StoryMode
 
 [Noble Titles v1.1.9]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2089
 
-- [Open Source Armory v1.2.0]
+- [Open Source Armory v1.2.0] (Download main file & Realistic Battle Mod Compatibility Patch)
 
 [Open Source Armory v1.2.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
 
@@ -168,7 +164,7 @@ StoryMode
 
 [Settlement Icons (End's Update) 1.5.7-1.5.9 v1.3.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2764
 
-- [Detailed Character Creation v1.2.2.5]
+- [Detailed Character Creation v1.2.2.5] (Install the Body Sliders and Additional Customization optional file if you'd like.)
 
 [Detailed Character Creation v1.2.2.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/118
 
@@ -184,7 +180,7 @@ StoryMode
 
 [Buy Smithing Parts v1.0.1.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1912
 
-- [Consider My Kingdom v1.3.6]
+- [Consider My Kingdom v1.3.6] (Install whichever main file you prefer.)
 
 [Consider My Kingdom v1.3.6]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2443
 
@@ -232,7 +228,7 @@ StoryMode
 
 [Customizable Leveling Rate v1.5.8.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2456
 
-- [More Troops Mod v1.2.2]
+- [More Troops Mod v1.2.2] (Also install the "More Troops Items for Realistic Battle Mod" optional file.)
 
 [More Troops Mod v1.2.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2121
 
@@ -271,3 +267,7 @@ StoryMode
 - [Custom Troop v1.6.6]
 
 [Custom Troop v1.6.6]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2482
+
+- [Alternating Main Menu Background v1.0]
+
+[Alternating Main Menu Background v1.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2885
