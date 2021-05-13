@@ -13,7 +13,7 @@
 
 [Bannerlord Mod Launcher]: https://www.nexusmods.com/mountandblade2bannerlord/mods/265
 - Download & install the [Bannerlord Mod Launcher].
-- Download the correct version of each mod manually.
+- Download the correct version of each mod manually. Every 10 or so you should follow the below step & run the game to make sure things are still being nice.
 - Extract mod contents to `...\steamapps\common\Mount & Blade II Bannerlord\Modules`. 
 
 (This looks something like `...\steamapps\common\Mount & Blade II Bannerlord\Modules\Diplomacy`)
