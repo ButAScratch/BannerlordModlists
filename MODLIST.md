@@ -1,6 +1,6 @@
 - [Harmony v2.0.4.60]
 
-[Harmony v2.0.4.60]: (https://www.nexusmods.com/mountandblade2bannerlord/mods/2006)
+[Harmony v2.0.4.60]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2006
 
 - [BetterExceptionWindow v2.2]
 
