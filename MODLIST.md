@@ -18,6 +18,16 @@
 
 [Mod Configuration Menu v4.3.10]: https://www.nexusmods.com/mountandblade2bannerlord/mods/612
 
+Native
+
+SandBox Core
+
+Custom Battle
+
+Sandbox
+
+StoryMode
+
 - [Improved Garrisons v4.0.2.2]
 
 [Improved Garrisons v4.0.2.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/688
