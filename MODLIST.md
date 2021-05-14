@@ -224,7 +224,7 @@ StoryMode
 
 [Calradia Expanded a1.1.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1389
 
-- [Freelancer v1.2.2.1]
+- [Freelancer v1.2.3.0]
 
 [Freelancer v1.2.2.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2831
 
@@ -255,3 +255,23 @@ StoryMode
 - [Alternating Main Menu Background v1.0]
 
 [Alternating Main Menu Background v1.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2885
+
+- [AI Values Life v1.9.2]
+
+[AI Values Life v1.9.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/481
+
+- [DismembermentPlus v1.0.3.14]
+
+[DismembermentPlus v1.0.3.14]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2190
+
+- [Hybrid Blocking v1.1.0]
+
+[Hybrid Blocking v1.1.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2386
+
+- [Realistic Weapon Collision v1.5.2]
+
+[Realistic Weapon Collision v1.5.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/983
+
+- [Xorberax's Shoulder Cam v0.6.0]
+
+[Xorberax's Shoulder Cam v0.6.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/143

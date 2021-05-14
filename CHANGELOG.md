@@ -1,3 +1,18 @@
+## [Unreleased]
+[Unreleased]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.2.0...HEAD
+
+### Updated
+
+- Freelancer
+
+### Added 
+
+- AI Values Life
+- DismembermentPlus
+- Hybrid Blocking
+- Realistic Weapon Collision
+- Xorberax's Shoulder Cam
+
 ## [v1.2.0] - 2021/5/13
 [v1.2.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.1.0...v1.2.0
 
