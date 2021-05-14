@@ -112,7 +112,7 @@ StoryMode
 
 [Noble Titles v1.1.9]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2089
 
-- [Open Source Armory v1.2.0] (Download main file & Realistic Battle Mod Compatibility Patch)
+- [Open Source Armory v1.2.0]
 
 [Open Source Armory v1.2.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
 
