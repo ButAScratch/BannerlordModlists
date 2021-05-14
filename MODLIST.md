@@ -32,14 +32,6 @@ StoryMode
 
 [Improved Garrisons v4.0.2.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/688
 
-- [ATC - Adonnay's Troop Changer v1.5.0]
-
-[ATC - Adonnay's Troop Changer v1.5.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/286
-
-- [Accompany (Follow) Party v1.0.8]
-
-[Accompany (Follow) Party v1.0.8]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1390
-
 - [Arranged Marriage v1.0.0]
 
 [Arranged Marriage v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2170
@@ -228,9 +220,9 @@ StoryMode
 
 [Customizable Leveling Rate v1.5.8.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2456
 
-- [More Troops Mod v1.2.2] (Also install the "More Troops Items for Realistic Battle Mod" optional file.)
+- [Bannerlord Overhaul - Troop and Item Overhaul v3.0.0]
 
-[More Troops Mod v1.2.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2121
+[Bannerlord Overhaul - Troop and Item Overhaul v3.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1446
 
 - [Calradia at War (Custom Spawns) v1.4.8]
 
@@ -239,6 +231,10 @@ StoryMode
 - [Calradia Expanded a1.1.3]
 
 [Calradia Expanded a1.1.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1389
+
+- [Freelancer v1.2.2.1]
+
+[Freelancer v1.2.2.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2831
 
 - [Kaoses tweaks v0.2.3]
 
@@ -251,10 +247,6 @@ StoryMode
 - [Scouting Actually Works v2.0.0]
 
 [Scouting Actually Works v2.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2148
-
-- [Realistic Battle Mod v1.8.6] (AI, Combat & Lord Retinue Uptier Modules)
-
-[Realistic Battle Mod v1.8.6]: https://www.nexusmods.com/mountandblade2bannerlord/mods/791
 
 - [True Relations Fix v1.0.0]
 
