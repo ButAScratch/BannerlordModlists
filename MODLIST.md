@@ -64,14 +64,6 @@ StoryMode
 
 [Workshops Work Better v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2181
 
-- [Interesting Clans 1.0.7]
-
-[Interesting Clans 1.0.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2017
-
-- [Interesting Companions v1.0.3] (Choose the Interesting Clans version)
-
-[Interesting Companions v1.0.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1869
-
 - [No Cheer On Retreat v1.0.0.0]
 
 [No Cheer On Retreat v1.0.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2625
