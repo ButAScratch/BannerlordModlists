@@ -248,9 +248,9 @@ StoryMode
 
 [Changing Culture v1.3.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2453
 
-- [Custom Troop v1.6.8.1]
+- [Regiment Of Renown v1.5.7.2]
 
-[Custom Troop v1.6.8.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2482
+[Regiment Of Renown v1.5.7.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2715
 
 - [Alternating Main Menu Background v1.0]
 
