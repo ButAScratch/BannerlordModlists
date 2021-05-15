@@ -250,7 +250,7 @@ StoryMode
 
 - [Custom Troop v1.6.8.1]
 
-[Custom Troop v1.6.8.1.]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2482
+[Custom Troop v1.6.8.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2482
 
 - [Alternating Main Menu Background v1.0]
 
