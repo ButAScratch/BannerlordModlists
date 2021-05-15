@@ -17,6 +17,10 @@
 - Xorberax's Shoulder Cam
 - Respec Companions In Towns
 
+### Documentation
+
+- Rewrote parts of the README install instructions.
+
 ## [v1.2.0] - 2021/5/13
 [v1.2.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.1.0...v1.2.0
 
