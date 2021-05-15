@@ -13,8 +13,8 @@
 
 ### Quick foreword
 
-While the Bannerlord Mod Launcher should do it for you, always check to see if a mod's DLLs are not being unblocked if you are crashing.
-To save any headaches, I recommend following steps 3 and four every 10 or so mods just to make sure things are still being nice.
+While the Bannerlord Mod Launcher should do it for you, always check to see if a mod's DLLs are not being unblocked if you are crashing on startup.
+To save any headaches, I recommend starting the game and loading into the character customization screen (Where you would select your character's culture) every 10 mods or so just to make sure things are being nice.
 
 [Bannerlord Mod Launcher]: https://www.nexusmods.com/mountandblade2bannerlord/mods/265
 1. Download & install the [Bannerlord Mod Launcher].
