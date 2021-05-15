@@ -1,9 +1,12 @@
-## [Unreleased]
-[Unreleased]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.2.0...HEAD
+## [v1.3.0] - 2021/5/15
+[v.1.3.0]]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.2.0...1.3.0
 
 ### Updated
 
 - Freelancer
+- Improved Garrisons
+- Custom Troop
+- Changing Culture
 
 ### Added 
 
@@ -12,6 +15,7 @@
 - Hybrid Blocking
 - Realistic Weapon Collision
 - Xorberax's Shoulder Cam
+- Respec Companions In Towns
 
 ## [v1.2.0] - 2021/5/13
 [v1.2.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.1.0...v1.2.0
