@@ -9,6 +9,10 @@
 
 - Custom Troop
 
+### Documentation
+
+- Slightly added to install instructions.
+
 ## [v1.3.0] - 2021/5/15
 [v1.3.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.2.0...v1.3.0
 
