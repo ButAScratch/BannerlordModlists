@@ -28,9 +28,9 @@ Sandbox
 
 StoryMode
 
-- [Improved Garrisons v4.0.2.2]
+- [Improved Garrisons v4.0.2.3]
 
-[Improved Garrisons v4.0.2.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/688
+[Improved Garrisons v4.0.2.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/688
 
 - [Arranged Marriage v1.0.0]
 
@@ -226,7 +226,7 @@ StoryMode
 
 - [Freelancer v1.2.3.0]
 
-[Freelancer v1.2.2.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2831
+[Freelancer v1.2.3.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2831
 
 - [Kaoses tweaks v0.2.3]
 
@@ -244,13 +244,13 @@ StoryMode
 
 [True Relations Fix v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2796
 
-- [Changing Culture v1.3.4]
+- [Changing Culture v1.3.7]
 
-[Changing Culture v1.3.4]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2453
+[Changing Culture v1.3.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2453
 
-- [Custom Troop v1.6.6]
+- [Custom Troop v1.6.8.1]
 
-[Custom Troop v1.6.6]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2482
+[Custom Troop v1.6.8.1.]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2482
 
 - [Alternating Main Menu Background v1.0]
 
@@ -275,3 +275,7 @@ StoryMode
 - [Xorberax's Shoulder Cam v0.6.0]
 
 [Xorberax's Shoulder Cam v0.6.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/143
+
+- [Respec Companions In Towns v1.1.1]
+
+[Respec Companions In Towns v1.1.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2822
