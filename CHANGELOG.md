@@ -1,3 +1,15 @@
+## [1.5.0] - 2021
+https://github.com/ButAScratch/BannerlordModlists/compare/v1.5.0...v1.5.0
+
+### Updated
+
+- Freelancer
+
+### Added
+
+- Ultimate Mounts
+- Xp Gain Watcher
+
 ## [1.4.0]
 [1.4.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.3.0...v1.4.0
 
