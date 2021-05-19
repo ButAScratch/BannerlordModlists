@@ -224,9 +224,9 @@ StoryMode
 
 [Calradia Expanded a1.1.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1389
 
-- [Freelancer v1.2.3.0]
+- [Freelancer v1.2.4.3]
 
-[Freelancer v1.2.3.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2831
+[Freelancer v1.2.4.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2831
 
 - [Kaoses tweaks v0.2.3]
 
