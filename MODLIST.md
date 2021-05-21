@@ -1,3 +1,7 @@
+# Load Order & Modlist
+
+## Foundational
+
 - [Harmony v2.0.4.60]
 
 [Harmony v2.0.4.60]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2006
@@ -18,103 +22,19 @@
 
 [Mod Configuration Menu v4.3.10]: https://www.nexusmods.com/mountandblade2bannerlord/mods/612
 
-Native
+## Native Modules
 
-SandBox Core
+- *Native*
 
-Custom Battle
+- *SandBox Core*
 
-Sandbox
+- *Custom Battle*
 
-StoryMode
+- *Sandbox*
 
-- [Improved Garrisons v4.0.2.3]
+- *StoryMode*
 
-[Improved Garrisons v4.0.2.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/688
-
-- [Arranged Marriage v1.0.0]
-
-[Arranged Marriage v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2170
-
-- [Battle Regeneration v1.3.0.0]
-
-[Battle Regeneration v1.3.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1432
-
-- [Best Workshop Type v1.0.5]
-
-[Best Workshop Type v1.0.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/814
-
-- [BloodMod - More Blood and Gore v2]
-
-[BloodMod - More Blood and Gore v2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1591
-
-- [Enter Castle and Town with a Horse v1.0.6]
-
-[Enter Castle and Town with a Horse v1.0.6]: https://www.nexusmods.com/mountandblade2bannerlord/mods/328
-
-- [Governors Handle Issues v1.0.0]
-
-[Governors Handle Issues v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2233
-
-- [Tournaments Enhanced v1.5.9.2] 
-
-[Tournaments Enhanced v1.5.9.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1449
-
-- [Workshops Work Better v1.0.0] (Choose desired version)
-
-[Workshops Work Better v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2181
-
-- [No Cheer On Retreat v1.0.0.0]
-
-[No Cheer On Retreat v1.0.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2625
-
-- [Responsive Soldiers v0.2.1]
-
-[Responsive Soldiers v0.2.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1136
-
-- [Save Overhaul (quicksave) v1.2.3]
-
-[Save Overhaul (quicksave) v1.2.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/322
-
-- [Bannerlord AutoTrader v1.25.0]
-
-[Bannerlord AutoTrader v1.25.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/135
-
-- [Diplomacy (formerly Diplomacy Fixes) v1.0.1]
-
-[Diplomacy (formerly Diplomacy Fixes) v1.0.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/832
-
-- [BannerPaste v1.0.0]
-
-[BannerPaste v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1003
-
-- [Banner Color Persistence v1.2.3]
-
-[Banner Color Persistence v1.2.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2637
-
-- [BattleSize v1-0-0]
-
-[BattleSize v1-0-0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2803
-
-- [Better Time (1.5.9 and newer) v1.1.2]
-
-[Better Time (1.5.9 and newer) v1.1.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2849
-
-- [Character Reload v1.5.9.7]
-
-[Character Reload v1.5.9.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2134
-
-- [Equip Best Item - Updated v1.5.9.3]
-
-[Equip Best Item - Updated v1.5.9.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1996
-
-- [Noble Titles v1.1.9]
-
-[Noble Titles v1.1.9]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2089
-
-- [Open Source Armory v1.2.0]
-
-[Open Source Armory v1.2.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
+## Early Loaders (Items)
 
 - [Vaegir Armoury v1.0]
 
@@ -124,53 +44,85 @@ StoryMode
 
 [Swadian armoury v1.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2349
 
-- [RTS Camera e3.9.26] 
+- [Open Source Armory v1.2.0]
 
-[RTS Camera e3.9.26]: https://www.nexusmods.com/mountandblade2bannerlord/mods/355
+[Open Source Armory v1.2.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
 
-- [Battle Mini Map v1.0.10]
+## Overhauls
 
-[Battle Mini Map v1.0.10]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2672
+- [Save Overhaul (quicksave) v1.2.3]
 
-- [Reset Map Rotation v1.1.1]
+[Save Overhaul (quicksave) v1.2.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/322
 
-[Reset Map Rotation v1.1.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/870
+- [Tournaments Enhanced v1.5.9.2] 
 
-- [Party Screen Enhancements v1.5.16]
-
-[Party Screen Enhancements v1.5.16]: https://www.nexusmods.com/mountandblade2bannerlord/mods/492
-
-- [Settlement Culture Changer v1.0.4]
-
-[Settlement Culture Changer v1.0.4]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2768
-
-- [Settlement Icons (End's Update) 1.5.7-1.5.9 v1.3.0]
-
-[Settlement Icons (End's Update) 1.5.7-1.5.9 v1.3.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2764
+[Tournaments Enhanced v1.5.9.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1449
 
 - [Detailed Character Creation v1.2.2.5] (Install the Body Sliders and Additional Customization optional file if you'd like.)
 
 [Detailed Character Creation v1.2.2.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/118
 
+- [Calradia at War (Custom Spawns) v1.4.8]
+
+[Calradia at War (Custom Spawns) v1.4.8]: https://www.nexusmods.com/mountandblade2bannerlord/mods/411
+
+- [Calradia Expanded a1.1.3]
+
+[Calradia Expanded a1.1.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1389
+
+- [Freelancer v1.2.4.3]
+
+[Freelancer v1.2.4.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2831
+
+- [True Relations Fix v1.0.0]
+
+[True Relations Fix v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2796
+
+- [Changing Culture v1.3.7]
+
+[Changing Culture v1.3.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2453
+
+- [Bannerlord Overhaul - Troop and Item Overhaul v3.0.0]
+
+[Bannerlord Overhaul - Troop and Item Overhaul v3.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1446
+
+## Overworld
+
+- [AI Values Life v1.9.2]
+
+[AI Values Life v1.9.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/481
+
+- [Governors Handle Issues v1.0.0]
+
+[Governors Handle Issues v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2233
+
+- [Improved Garrisons v4.0.2.3]
+
+[Improved Garrisons v4.0.2.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/688
+
+- [Bannerlord AutoTrader v1.25.0]
+
+[Bannerlord AutoTrader v1.25.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/135
+
+- [Diplomacy (formerly Diplomacy Fixes) v1.0.1]
+
+[Diplomacy (formerly Diplomacy Fixes) v1.0.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/832
+
+- [Party Screen Enhancements v1.5.16]
+
+[Party Screen Enhancements v1.5.16]: https://www.nexusmods.com/mountandblade2bannerlord/mods/492
+
+- [Settlement Icons (End's Update) 1.5.7-1.5.9 v1.3.0]
+
+[Settlement Icons (End's Update) 1.5.7-1.5.9 v1.3.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2764
+
 - [Allegiance Overhaul v1.1.5.2]
 
 [Allegiance Overhaul v1.1.5.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1750
 
-- [Army Arrow Counter v1.3.0]
-
-[Army Arrow Counter v1.3.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/448
-
-- [Buy Smithing Parts v1.0.1.2]
-
-[Buy Smithing Parts v1.0.1.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1912
-
 - [Consider My Kingdom v1.3.6] (Install whichever main file you prefer.)
 
 [Consider My Kingdom v1.3.6]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2443
-
-- [Extended Family v1.2.2]
-
-[Extended Family v1.2.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2183
 
 - [I Dont Care - Campaign Log Filter v2.1.0]
 
@@ -188,10 +140,6 @@ StoryMode
 
 [Party AI Overhaul and Commands Continued v2.4.98]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2594
 
-- [Select All Kingdom Culture v1.0.1]
-
-[Select All Kingdom Culture v1.0.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2258
-
 - [Houses of Calradia v1.2.7]
 
 [Houses of Calradia v1.2.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2174
@@ -200,33 +148,65 @@ StoryMode
 
 [Separatism v0.9.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/968
 
-- [Cultured Start v1.1.23]
+- [Respec Companions In Towns v1.1.1]
 
-[Cultured Start v1.1.23]: https://www.nexusmods.com/mountandblade2bannerlord/mods/212
+[Respec Companions In Towns v1.1.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2822
 
-- [Dont die on me v1.0.0]
+## Battle
 
-[Dont die on me v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/752
+- [No Cheer On Retreat v1.0.0.0]
+
+[No Cheer On Retreat v1.0.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2625
+
+- [BloodMod - More Blood and Gore v2]
+
+[BloodMod - More Blood and Gore v2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1591
+
+- [Battle Regeneration v1.3.0.0]
+
+[Battle Regeneration v1.3.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1432
+
+- [Responsive Soldiers v0.2.1]
+
+[Responsive Soldiers v0.2.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1136
+
+- [RTS Camera e3.9.26] 
+
+[RTS Camera e3.9.26]: https://www.nexusmods.com/mountandblade2bannerlord/mods/355
+
+- [Battle Mini Map v1.0.10]
+
+[Battle Mini Map v1.0.10]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2672
+
+- [Army Arrow Counter v1.3.0]
+
+[Army Arrow Counter v1.3.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/448
+
+- [DismembermentPlus v1.0.3.14]
+
+[DismembermentPlus v1.0.3.14]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2190
+
+- [Hybrid Blocking v1.1.0]
+
+[Hybrid Blocking v1.1.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2386
+
+- [Xorberax's Shoulder Cam v0.6.0]
+
+[Xorberax's Shoulder Cam v0.6.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/143
+
+## Late Loaders (Minor)
+
+- [Enter Castle and Town with a Horse v1.0.6]
+
+[Enter Castle and Town with a Horse v1.0.6]: https://www.nexusmods.com/mountandblade2bannerlord/mods/328
+
+- [Noble Titles v1.1.9]
+
+[Noble Titles v1.1.9]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2089
 
 - [Customizable Leveling Rate v1.5.8.1]
 
 [Customizable Leveling Rate v1.5.8.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2456
-
-- [Bannerlord Overhaul - Troop and Item Overhaul v3.0.0]
-
-[Bannerlord Overhaul - Troop and Item Overhaul v3.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1446
-
-- [Calradia at War (Custom Spawns) v1.4.8]
-
-[Calradia at War (Custom Spawns) v1.4.8]: https://www.nexusmods.com/mountandblade2bannerlord/mods/411
-
-- [Calradia Expanded a1.1.3]
-
-[Calradia Expanded a1.1.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1389
-
-- [Freelancer v1.2.4.3]
-
-[Freelancer v1.2.4.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2831
 
 - [Kaoses tweaks v0.2.3]
 
@@ -240,14 +220,6 @@ StoryMode
 
 [Scouting Actually Works v2.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2148
 
-- [True Relations Fix v1.0.0]
-
-[True Relations Fix v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2796
-
-- [Changing Culture v1.3.7]
-
-[Changing Culture v1.3.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2453
-
 - [Regiment Of Renown v1.5.7.2]
 
 [Regiment Of Renown v1.5.7.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2715
@@ -256,26 +228,58 @@ StoryMode
 
 [Alternating Main Menu Background v1.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2885
 
-- [AI Values Life v1.9.2]
-
-[AI Values Life v1.9.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/481
-
-- [DismembermentPlus v1.0.3.14]
-
-[DismembermentPlus v1.0.3.14]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2190
-
-- [Hybrid Blocking v1.1.0]
-
-[Hybrid Blocking v1.1.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2386
-
 - [Realistic Weapon Collision v1.5.2]
 
 [Realistic Weapon Collision v1.5.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/983
 
-- [Xorberax's Shoulder Cam v0.6.0]
+- [Workshops Work Better v1.0.0] (Choose desired version)
 
-[Xorberax's Shoulder Cam v0.6.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/143
+[Workshops Work Better v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2181
 
-- [Respec Companions In Towns v1.1.1]
+- [Arranged Marriage v1.0.0]
 
-[Respec Companions In Towns v1.1.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2822
+[Arranged Marriage v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2170
+
+- [Best Workshop Type v1.0.5]
+
+[Best Workshop Type v1.0.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/814
+
+- [Better Time (1.5.9 and newer) v1.1.2]
+
+[Better Time (1.5.9 and newer) v1.1.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2849
+
+- [BannerPaste v1.0.0]
+
+[BannerPaste v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1003
+
+- [Banner Color Persistence v1.2.3]
+
+[Banner Color Persistence v1.2.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2637
+
+- [Character Reload v1.5.9.7]
+
+[Character Reload v1.5.9.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2134
+
+- [Equip Best Item - Updated v1.5.9.3]
+
+[Equip Best Item - Updated v1.5.9.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1996
+
+- [Reset Map Rotation v1.1.1]
+
+[Reset Map Rotation v1.1.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/870
+
+- [Buy Smithing Parts v1.0.1.2]
+
+[Buy Smithing Parts v1.0.1.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1912
+
+- [Extended Family v1.2.2]
+
+[Extended Family v1.2.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2183
+
+- [Select All Kingdom Culture v1.0.1]
+
+[Select All Kingdom Culture v1.0.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2258
+
+- [Dont die on me v1.0.0]
+
+[Dont die on me v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/752
