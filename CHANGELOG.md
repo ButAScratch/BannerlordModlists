@@ -9,7 +9,7 @@
 
 ### Documentation
 
-- Overhauled modlist appearance/load order
+- Overhauled modlist appearance/load order.
 
 ## [v1.5.0] - 2021/5/18
 [v1.5.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.4.0...v1.5.0
