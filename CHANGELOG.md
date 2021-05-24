@@ -13,6 +13,10 @@
 - Calradia At War (Custom Spawns)
 - Xorberax's Shoulder Cam
 
+### Documentation
+
+- Fixed mod versions in load order list for previous updates.
+
 ## [v1.6.0] - 2021/5/21
 [v1.6.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.5.0...v1.6.0
 
