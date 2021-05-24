@@ -1,5 +1,5 @@
 ## [v1.7.0]
-https://github.com/ButAScratch/BannerlordModlists/compare/v1.6.0...v1.7.0
+[v1.7.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.6.0...v1.7.0
 
 ### Updated
 
