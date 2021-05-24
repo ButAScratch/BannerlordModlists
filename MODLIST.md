@@ -44,9 +44,9 @@
 
 [Swadian armoury v1.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2349
 
-- [Open Source Armory v1.2.0]
+- [Open Source Armory v1.3.0]
 
-[Open Source Armory v1.2.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
+[Open Source Armory v1.3.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
 
 ## Overhauls
 
@@ -62,25 +62,21 @@
 
 [Detailed Character Creation v1.2.2.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/118
 
-- [Calradia at War (Custom Spawns) v1.4.8]
-
-[Calradia at War (Custom Spawns) v1.4.8]: https://www.nexusmods.com/mountandblade2bannerlord/mods/411
-
 - [Calradia Expanded a1.1.3]
 
 [Calradia Expanded a1.1.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1389
 
-- [Freelancer v1.2.4.3]
+- [Freelancer v1.2.4.7]
 
-[Freelancer v1.2.4.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2831
+[Freelancer v1.2.4.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2831
 
 - [True Relations Fix v1.0.0]
 
 [True Relations Fix v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2796
 
-- [Changing Culture v1.3.7]
+- [Changing Culture v1.4.0]
 
-[Changing Culture v1.3.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2453
+[Changing Culture v1.4.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2453
 
 - [Bannerlord Overhaul - Troop and Item Overhaul v3.0.0]
 
@@ -92,9 +88,9 @@
 
 [AI Values Life v1.9.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/481
 
-- [Governors Handle Issues v1.0.0]
+- [Governors Handle Issues v1.0.1]
 
-[Governors Handle Issues v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2233
+[Governors Handle Issues v1.0.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2233
 
 - [Improved Garrisons v4.0.2.3]
 
@@ -190,10 +186,6 @@
 
 [Hybrid Blocking v1.1.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2386
 
-- [Xorberax's Shoulder Cam v0.6.0]
-
-[Xorberax's Shoulder Cam v0.6.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/143
-
 ## Late Loaders (Minor)
 
 - [Enter Castle and Town with a Horse v1.0.6]
@@ -203,10 +195,6 @@
 - [Noble Titles v1.1.9]
 
 [Noble Titles v1.1.9]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2089
-
-- [Customizable Leveling Rate v1.5.8.1]
-
-[Customizable Leveling Rate v1.5.8.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2456
 
 - [Kaoses tweaks v0.2.3]
 
@@ -236,17 +224,17 @@
 
 [Workshops Work Better v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2181
 
-- [Arranged Marriage v1.0.0]
+- [Arranged Marriage v1.0.1]
 
-[Arranged Marriage v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2170
+[Arranged Marriage v1.0.1]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2170
 
 - [Best Workshop Type v1.0.5]
 
 [Best Workshop Type v1.0.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/814
 
-- [Better Time (1.5.9 and newer) v1.1.2]
+- [Better Time (1.5.9 and newer) v1.1.4]
 
-[Better Time (1.5.9 and newer) v1.1.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2849
+[Better Time (1.5.9 and newer) v1.1.4]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2849
 
 - [BannerPaste v1.0.0]
 
