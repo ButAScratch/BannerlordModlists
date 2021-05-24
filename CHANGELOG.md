@@ -1,3 +1,10 @@
+## [v1.7.2]
+[v1.7.2]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.7.1...v1.7.2
+
+### Documentation
+
+- Added wiki page and cleaned up the README.
+
 ## [v1.7.1]
 [v1.7.1]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.7.0...v1.7.1
 
