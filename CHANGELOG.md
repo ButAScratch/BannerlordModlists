@@ -1,3 +1,18 @@
+## [v1.7.0]
+https://github.com/ButAScratch/BannerlordModlists/compare/v1.6.0...v1.7.0
+
+### Updated
+
+- Better Time (1.5.9 and newer)
+- Changing Culture
+- Freelancer
+
+### Removed
+
+- Customizable Leveling Rate
+- Calradia At War (Custom Spawns)
+- Xorberax's Shoulder Cam
+
 ## [v1.6.0] - 2021/5/21
 [v1.6.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.5.0...v1.6.0
 
