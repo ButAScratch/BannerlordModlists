@@ -1,3 +1,15 @@
+## [v1.7.1]
+[v1.7.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.7.0...v1.7.1
+
+### Added
+
+- New "GohandhiModified_X-X-X" folder which will contain a modlist.txt for Mod Organizer 2
+
+
+### Documentation
+
+- Clarified README instructions and added a new method for Mod Organizer 2
+
 ## [v1.7.0]
 [v1.7.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.6.0...v1.7.0
 
