@@ -3,10 +3,10 @@
 ## **This mod list is for 1.5.9**
 
 #### [Mod List]
-[Mod list]: https://github.com/ButAScratch/BannerlordModlists/blob/Gohandhi-Modified/GohandhiModified/MODLIST.md
+[Mod list]: https://github.com/ButAScratch/BannerlordModlists/blob/JackieFish-LifeOfALegionnaire/MODLIST.md
 
 #### [Changelog]
-[Changelog]: https://github.com/ButAScratch/BannerlordModlists/blob/Gohandhi-Modified/GohandhiModified/CHANGELOG.md
+[Changelog]: https://github.com/ButAScratch/BannerlordModlists/blob/JackieFish-LifeOfALegionnaire/CHANGELOG.md
 
 
 ## Installation
