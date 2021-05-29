@@ -128,17 +128,17 @@
 
 [Kaoses Parties Sizes - Updated v1.5.3.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2335
 
-- [Pacemaker v1.2.5]
+- [Pacemaker v1.2.6]
 
-[Pacemaker v1.2.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1902
+[Pacemaker v1.2.6]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1902
 
 - [Party AI Overhaul and Commands Continued v2.4.98]
 
 [Party AI Overhaul and Commands Continued v2.4.98]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2594
 
-- [Houses of Calradia v1.2.7]
+- [Houses of Calradia v1.2.8]
 
-[Houses of Calradia v1.2.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2174
+[Houses of Calradia v1.2.8]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2174
 
 - [Separatism v0.9.0]
 
@@ -192,13 +192,13 @@
 
 [Enter Castle and Town with a Horse v1.0.6]: https://www.nexusmods.com/mountandblade2bannerlord/mods/328
 
-- [Noble Titles v1.1.9]
+- [Noble Titles v1.1.10]
 
-[Noble Titles v1.1.9]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2089
+[Noble Titles v1.1.10]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2089
 
-- [Kaoses tweaks v0.2.3]
+- [Kaoses tweaks v0.2.7]
 
-[Kaoses tweaks v0.2.3]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2911
+[Kaoses tweaks v0.2.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2911
 
 - [Economy Tweak v1.158.1]
 
@@ -232,9 +232,9 @@
 
 [Best Workshop Type v1.0.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/814
 
-- [Better Time (1.5.9 and newer) v1.1.4]
+- [Better Time (1.5.9 and newer) v1.1.5]
 
-[Better Time (1.5.9 and newer) v1.1.4]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2849
+[Better Time (1.5.9 and newer) v1.1.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2849
 
 - [BannerPaste v1.0.0]
 
