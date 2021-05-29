@@ -1,4 +1,4 @@
-## [v1.8.0]
+## [v1.8.0] - 2021/5/29
 [v1.8.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.7.2...v1.8.0
 
 ### Updated
@@ -9,14 +9,14 @@
 - Kaoses Tweaks
 - Better Time
 
-## [v1.7.2]
+## [v1.7.2] - 2021/5/24
 [v1.7.2]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.7.1...v1.7.2
 
 ### Documentation
 
 - Added wiki page and cleaned up the README.
 
-## [v1.7.1]
+## [v1.7.1] - 2021/5/23
 [v1.7.1]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.7.0...v1.7.1
 
 ### Added
@@ -28,7 +28,7 @@
 
 - Clarified README instructions and added a new method for Mod Organizer 2
 
-## [v1.7.0]
+## [v1.7.0] - 2021/5/23
 [v1.7.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.6.0...v1.7.0
 
 ### Updated
