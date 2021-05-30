@@ -14,7 +14,7 @@
 
 [Mod Configuration Menu v4.3.10]: https://www.nexusmods.com/mountandblade2bannerlord/mods/612
 
-- [Calradia Expanded Kingdoms (Load First)] (CEK has two modules included in it's download. Put this one here. Download version 1.1.5)
+- [Calradia Expanded Kingdoms (Load First)] (CEK has two modules included in it's download. Put this one here. Download version 1.1.5 Also download the Eagle Rising patch.)
 
 [Calradia Expanded Kingdoms (Load First)]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2828
 
