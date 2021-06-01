@@ -1,3 +1,27 @@
+## [v1.9.0] - 2021/6/1
+[v1.9.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.9.0...v1.9.0
+
+### Updated
+
+- Kaoses Tweaks
+
+### Added
+
+- Attributes Matter
+- Colored Map Icons
+- Distinguished Service
+- Drastic Battle
+- NPC Revamp
+
+### Removed
+
+- Battle Regeneration
+- Realistic Weapon Collision
+
+### Documentation
+
+- Changed note in MODLIST.md for Workshops Work Better to mention which version I use.
+
 ## [v1.8.0] - 2021/5/29
 [v1.8.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.7.2...v1.8.0
 
