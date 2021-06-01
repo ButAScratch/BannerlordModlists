@@ -22,6 +22,13 @@
 
 [Mod Configuration Menu v4.3.10]: https://www.nexusmods.com/mountandblade2bannerlord/mods/612
 
+## NPC Revamp
+(This one only goes here because it's special)
+
+- [NPC Revamp 9.0 v9.0]
+
+[NPC Revamp 9.0 v9.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/21
+
 ## Native Modules
 
 - *Native*
@@ -49,6 +56,10 @@
 [Open Source Armory v1.3.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
 
 ## Overhauls
+
+- [Distinguished Service v4.6.0]
+
+[Distinguished Service v4.6.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1101
 
 - [Save Overhaul (quicksave) v1.2.3]
 
@@ -150,6 +161,16 @@
 
 ## Battle
 
+- [Drastic Battle --- Effective Armor Deadly Charge Friendly Fire etc v3.0.0]
+
+(You can enter Drastic Battle's config menu by pressing CTRL+SHIFT+D.
+
+The settings will change depending on if you are in the main menu, overworld map, or in a battle.
+
+I highly recommend changing the crush through tolerances to be more strict while you're in a battle.)
+
+[Drastic Battle --- Effective Armor Deadly Charge Friendly Fire etc v3.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2188
+
 - [No Cheer On Retreat v1.0.0.0]
 
 [No Cheer On Retreat v1.0.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2625
@@ -157,10 +178,6 @@
 - [BloodMod - More Blood and Gore v2]
 
 [BloodMod - More Blood and Gore v2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1591
-
-- [Battle Regeneration v1.3.0.0]
-
-[Battle Regeneration v1.3.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1432
 
 - [Responsive Soldiers v0.2.1]
 
@@ -188,6 +205,14 @@
 
 ## Late Loaders (Minor)
 
+- [Colored Map Icons v1.5.9] (Check the screenshots to make sure these fit your taste. The author isn't a perfect artist, but I like them.)
+
+[Colored Map Icons v1.5.9]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2628
+
+- [Attributes Matter v3.8.0.5]
+
+[Attributes Matter v3.8.0.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1374
+
 - [Enter Castle and Town with a Horse v1.0.6]
 
 [Enter Castle and Town with a Horse v1.0.6]: https://www.nexusmods.com/mountandblade2bannerlord/mods/328
@@ -196,9 +221,9 @@
 
 [Noble Titles v1.1.10]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2089
 
-- [Kaoses tweaks v0.2.7]
+- [Kaoses tweaks v0.2.8]
 
-[Kaoses tweaks v0.2.7]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2911
+[Kaoses tweaks v0.2.8]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2911
 
 - [Economy Tweak v1.158.1]
 
@@ -216,11 +241,7 @@
 
 [Alternating Main Menu Background v1.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2885
 
-- [Realistic Weapon Collision v1.5.2]
-
-[Realistic Weapon Collision v1.5.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/983
-
-- [Workshops Work Better v1.0.0] (Choose desired version)
+- [Workshops Work Better v1.0.0] (Choose desired version. I use "Workshops Work Much Better".)
 
 [Workshops Work Better v1.0.0]: https://www.nexusmods.com/mountandblade2bannerlord/mods/2181
 
