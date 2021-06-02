@@ -1,5 +1,15 @@
+## [v1.9.1] - 2021/6/1
+[v1.9.1]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.9.0...v1.9.1
+
+### Documentation
+
+- Fixed 1.9.0 hyperlink in CHANGELOG.md
+- Fixed 1.9.0 MO2 files
+- Added instructions on how to update and merge mods through MO2 in the wiki
+- Updated MODLIST.md to link to the above wiki in places
+
 ## [v1.9.0] - 2021/6/1
-[v1.9.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.9.0...v1.9.0
+[v1.9.0]: https://github.com/ButAScratch/BannerlordModlists/compare/v1.8.0...v1.9.0
 
 ### Updated
 
