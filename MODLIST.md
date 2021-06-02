@@ -69,8 +69,9 @@
 
 [Tournaments Enhanced v1.5.9.2]: https://www.nexusmods.com/mountandblade2bannerlord/mods/1449
 
-- [Detailed Character Creation v1.2.2.5] (Install the Body Sliders and Additional Customization optional file if you'd like.)
+- [Detailed Character Creation v1.2.2.5] (Install the Body Sliders and Additional Customization optional file if you'd like. [If you are using MO2, instructions for that are here.])
 
+[If you are using MO2, instructions for that are here.]: https://github.com/ButAScratch/BannerlordModlists/wiki/Installation-Method-Two/#how-to-install-a-minor-patch-using-mo2
 [Detailed Character Creation v1.2.2.5]: https://www.nexusmods.com/mountandblade2bannerlord/mods/118
 
 - [Calradia Expanded a1.1.3]
